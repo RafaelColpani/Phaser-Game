@@ -14,8 +14,8 @@
 
 <p align="center">
  <img height="25" src="http://img.shields.io/static/v1?label = STATUS & message = Under %20 Development & color = yellow & style=for-the-badge"/> 
- <img height="25" src="http://img.shields.io/static/v1?label = CODE-QUALITY & message = %20 75 & color = orange & style=for-the-badge"/> 
- <img height="25" src="http://img.shields.io/static/v1?label = ENGINE / PIPELINE & message = Unity %20 URP & color = lightgray & style=for-the-badge"/> 
+ <img height="25" src="http://img.shields.io/static/v1?label = CODE-QUALITY & message = %20 0 & color = orange & style=for-the-badge"/> 
+ <img height="25" src="http://img.shields.io/static/v1?label = ENGINE / PIPELINE & message = Phaser %20 JS & color = lightgray & style=for-the-badge"/> 
 </p>
 
 <h4 align="left"> Load project: </h4>

@@ -25,15 +25,18 @@
 > init npm
 ```
 
-<h6> Start server </h6>
+<h6> Enter the general files folder </h6>
+```
+> cd src
+```
 
+<h6> Start server </h6>
 ```
 > start
 ```
 
 <h6> In the CMD this will appear "FilePath:" </h6>
 <h6> Put this path below </h6>
-
 ```
 > index.html
 ```

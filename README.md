@@ -19,14 +19,13 @@
 </p>
 
 <h4 align="left"> Load project: </h4>
-<h6> Download all files </h6>
-<h6> Download modules </h6>
+<h6> 1 - Install modules from package.json</h6>
 
 ```
 > init npm
 ```
 
-<h6> Start server </h6>
+<h6> 2 - Start server </h6>
 
 ```
 > start

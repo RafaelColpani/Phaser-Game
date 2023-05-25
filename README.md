@@ -19,7 +19,6 @@
 </p>
 
 <h4 align="left"> Load project: </h4>
-<h6> Download all files </h6>
 <h6> Download modules </h6>
 
 ```
@@ -30,5 +29,11 @@
 
 ```
 > start
+```
+
+<h6> In the CMD this will appear "FilePath:" </h6>
+<h6> Put this path below </h6>
+
+```
 > index.html
 ```

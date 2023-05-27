@@ -25,7 +25,7 @@
 <h6> Download modules </h6>
 
 ```
-> init npm
+> npm install
 ```
 
 <h6> Enter the general files folder </h6>
@@ -37,12 +37,17 @@
 <h6> Start server </h6>
 
 ```
-> start
+> node index.js
 ```
 
-<h6> In the CMD this will appear "FilePath:" </h6>
-<h6> Put this path below </h6>
+<h6> Go to the web page </h6>
 
 ```
-> index.html
+> http://localhost:7070/
+```
+
+<h6> To close the server, use the command </h6>
+
+```
+> CTRL + C
 ```

@@ -2,7 +2,7 @@
   "name": "Phaser-Game",
   "version": "0.0.1",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "dependencies": {
     "phaser": "^3.55.2"
   }

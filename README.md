@@ -28,12 +28,6 @@
 > npm install
 ```
 
-<h6> Enter the general files folder </h6>
-
-```
-> cd src
-```
-
 <h6> Start server </h6>
 
 ```
@@ -46,7 +40,7 @@
 > http://localhost:7070/
 ```
 
-<h6> To close the server, use the command </h6>
+<h6> To close the server, use the command in your terminal</h6>
 
 ```
 > CTRL + C

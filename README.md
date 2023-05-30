@@ -5,23 +5,29 @@
    <img src="https://skillicons.dev/icons?i=js"/>
    <img src="https://skillicons.dev/icons?i=vscode"/>  
    <img src="https://skillicons.dev/icons?i=nodejs"/>
+   <img src="https://skillicons.dev/icons?i=androidstudio"/>
+  
   </a>
 </p>
 
 <h5 align="center">
-  Create a game using phaser js
+  Create a game using phaser js and android studio
 </h5>
 
 <p align="center">
  <img height="25" src="http://img.shields.io/static/v1?label = STATUS & message = Under %20 Development & color = yellow & style=for-the-badge"/> 
- <img height="25" src="http://img.shields.io/static/v1?label = CODE-QUALITY & message = %20 0 & color = orange & style=for-the-badge"/> 
- <img height="25" src="http://img.shields.io/static/v1?label = ENGINE / PIPELINE & message = Phaser %20 JS & color = lightgray & style=for-the-badge"/> 
+ <img height="25" src="http://img.shields.io/static/v1?label = ENGINE / PIPELINE & message = Phaser_JS %20 / Android_Studio & color = lightgray & style=for-the-badge"/> 
 </p>
 
-<h3> Description: </h3>
-<a> --- </a>
 
-<h4 align="left"> Load project:</h4>
+# Description:
+<a> A mini game created using phaser js tools for the web version and using android studio to make its mobile version </a>
+
+# Load project in Web Server:
+
+<a>Two ways using node js or the vs code extension called live server </a>
+
+<h4 align="left"> - Node js </h4>
 <h6> Download modules </h6>
 
 ```
@@ -45,3 +51,6 @@
 ```
 > CTRL + C
 ```
+
+<h4 align="left"> - VS Code </h4>
+<h6> To run directly in vscode you need the "Live Server" extension </h6>

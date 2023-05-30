@@ -31,6 +31,11 @@
  The assets used in the project were taken from the website: https://kenney.nl/ 
 </h6>
 
+# Controls:
+:arrow_left:  :arrow_up: :arrow_right: :arrow_down: <a>  -> Use the arrow keys to move </a>
+
+<a> SPACE BAR </a> <a> -> Use the space bar to shoot </a>
+
 # Load project in Web Server:
 
 <a>Two ways using node js or the vs code extension called live server </a>

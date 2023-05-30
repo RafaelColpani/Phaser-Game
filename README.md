@@ -23,6 +23,14 @@
 # Description:
 <a> A mini game created using phaser js tools for the web version and using android studio to make its mobile version </a>
 
+<p align="center">
+<img  align="center" src="gitImage/mobile_game.PNG"  title="mobile scene"  width = "55%">
+</p>
+
+<h6 align="center"> 
+ The assets used in the project were taken from the website: https://kenney.nl/ 
+</h6>
+
 # Load project in Web Server:
 
 <a>Two ways using node js or the vs code extension called live server </a>
@@ -54,3 +62,19 @@
 
 <h4 align="left"> - VS Code </h4>
 <h6> To run directly in vscode you need the "Live Server" extension </h6>
+
+<p align="left">
+<img  align="center" src="gitImage/LiveServer_Extension.PNG"  title="mobile scene"  width = "55%">
+</p>
+
+<h6> after having installed the extension look for the file "index.html", just follow the path below </h6>
+
+```
+> src\index.html
+```
+
+<h6> Right-click on the "index.html" file and look for the "Open with Live Server" option as shown in the image below </h6>
+
+<p align="left">
+<img  align="center" src="gitImage/LiveServer_On.PNG"  title="mobile scene"  width = "55%">
+</p>
